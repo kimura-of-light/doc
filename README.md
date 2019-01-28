@@ -3,7 +3,7 @@
 ### isucon公式
 - http://isucon.net/
 
-### isucon公式のgithubリポジトリ  
+### isucon公式のgithubのOrganization  
 - https://github.com/isucon
 
 
